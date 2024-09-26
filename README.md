@@ -31,7 +31,7 @@ Or use the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli).
 $ gatsby new contentful-starter-blog https://github.com/contentful/starter-gatsby-blog/
 ```
 
-### Set up of the needed content model and create a configuration file
+### Set up of the needed content model and create a configuration file!
 
 This project comes with a Contentful setup command `npm run setup`.
 
